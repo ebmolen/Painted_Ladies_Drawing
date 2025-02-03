@@ -1,5 +1,5 @@
-# House_Drawing
+# Painted Ladies Drawing
 
-Drawing of a house completed for Object Oriented Programming class in Spring 2024.  
+Used Java Swing and OOP principles to create a drawing of the Painted Ladies houses in San Francisco. 
 
 Screenshot of what drawing should look like included in repo.
